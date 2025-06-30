@@ -3,7 +3,7 @@
 - Atualmente realizando um Mestrado em Tecnologias Computacionais para o Agronegócio (UTFPR)
 - Trabalhando com Estações Meteorológicas para uso de Defensivos Agrícolas
 - Formado em Física
-- Desenvolvedor Front -end & Back - End
+- Desenvolvedor Front - end e Back - End
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidpontes93)
