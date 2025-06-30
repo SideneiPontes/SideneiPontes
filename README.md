@@ -1,5 +1,11 @@
 ### Olá eu sou o Sidenei Pontes 👋
 
+- Atualmente realizando um Mestrado em Tecnologias Computacionais para o Agronegócio (UTFPR)
+- Trabalhando com Estações Meteorológicas para uso de Defensivos Agrícolas
+- Formado em Física
+- Desenvolvedor Back - End
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sidpontes93)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sidpontes93)
